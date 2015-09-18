@@ -1,0 +1,22 @@
+body{
+background-color:#f1f1f1;
+
+
+}
+
+
+#box{
+margin-top:8%;
+
+
+}
+
+h1 , h2{text-align:center;}
+
+#btn{
+	background-color:rgb(93, 160, 155);
+	color:white;
+   margin-left:42%;
+   width:100px;
+
+}

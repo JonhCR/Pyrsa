@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Esta es una prueba
+=======
+Esta es una prueba mod
+>>>>>>> 7503521ba14712dd6e2726a64068fab0c067bbd3
